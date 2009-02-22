@@ -1,4 +1,9 @@
-Extended-Bort
+Original copy based on Extended-Bort
+
+  sassy_bort additions:
+    * haml plugin (submodule)
+    * converted erb to haml
+    * converted css to sass 
 
 This is a fork of orginial Bort (http://github.com/fudgestudios/bort/tree/master) with some changes.
 

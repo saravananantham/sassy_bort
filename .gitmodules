@@ -43,3 +43,6 @@
 [submodule "vendor/plugins/haml"]
 	path = vendor/plugins/haml
 	url = git://github.com/nex3/haml.git
+[submodule "vendor/plugins/declarative_authorization"]
+	path = vendor/plugins/declarative_authorization
+	url = git://github.com/stffn/declarative_authorization.git

@@ -1,9 +1,6 @@
 [submodule "vendor/rails"]
 	path = vendor/rails
 	url = git://github.com/rails/rails.git
-[submodule "vendor/plugins/annotate_models"]
-	path = vendor/plugins/annotate_models
-	url = git://github.com/rotuka/annotate_models.git
 [submodule "vendor/plugins/exception_notification"]
 	path = vendor/plugins/exception_notification
 	url = git://github.com/rails/exception_notification.git
@@ -19,12 +16,6 @@
 [submodule "vendor/plugins/forgot_password"]
 	path = vendor/plugins/forgot_password
 	url = git://github.com/greenisus/forgot_password.git
-[submodule "vendor/plugins/cucumber"]
-	path = vendor/plugins/cucumber
-	url = git://github.com/aslakhellesoy/cucumber.git
-[submodule "vendor/plugins/webrat"]
-	path = vendor/plugins/webrat
-	url = git://github.com/brynary/webrat.git
 [submodule "vendor/plugins/bundle-fu"]
 	path = vendor/plugins/bundle-fu
 	url = git://github.com/timcharper/bundle-fu.git
@@ -40,3 +31,6 @@
 [submodule "vendor/plugins/declarative_authorization"]
 	path = vendor/plugins/declarative_authorization
 	url = git://github.com/stffn/declarative_authorization.git
+[submodule "vendor/plugins/acts_as_taggable_on"]
+	path = vendor/plugins/acts_as_taggable_on
+	url = git://github.com/mbleigh/acts-as-taggable-on.git

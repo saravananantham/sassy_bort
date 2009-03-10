@@ -34,7 +34,7 @@
 [submodule "vendor/plugins/acts_as_taggable_on"]
 	path = vendor/plugins/acts_as_taggable_on
 	url = git://github.com/mbleigh/acts-as-taggable-on.git
-[submodule "vendor/rspec"]
+[submodule "vendor/plugins/rspec"]
 	path = vendor/plugins/rspec
 	url = git://github.com/dchelimsky/rspec.git
 [submodule "vendor/plugins/rspec-rails"]
